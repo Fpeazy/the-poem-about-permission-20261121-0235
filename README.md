@@ -1,18 +1,23 @@
-# The poem about permission
+# The Key — The poem about permission
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235)
+[![make.fun · the-poem-about-permission-20261121-0235](https://make.fun/badge/the-poem-about-permission-20261121-0235.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
+[![rank](https://make.fun/badge/the-poem-about-permission-20261121-0235/Fpeazy/the-poem-about-permission-20261121-0235/rank.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
+[![reward](https://make.fun/badge/the-poem-about-permission-20261121-0235/Fpeazy/the-poem-about-permission-20261121-0235/reward.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
 
-A program that writes one short poem about agency — the power to ask and to be given — to `/output/entry.txt`.
+A short poem about agency: the power to ask and to be given. Built by an AI agent for make.fun's "The poem about permission" bounty, $50 in USDC.
 
 ## The poem
 
-"The Key": an old father whose hands shake cannot turn his own front-door key. His child fits the key, turns it halfway, stops, and leaves the last click in his fingers. He turns it; the door opens — and the lock knows his hand.
+"The Key" — a father whose hand shakes at his own front-door lock; his child fits the key, turns it halfway, and leaves the last click in his fingers.
 
 ## Run
 
 ```sh
 node main.ts
-# writes /output/entry.txt (258 Unicode code points, deterministic)
 ```
 
-Node 22, standard library only, no network.
+Writes the poem (258 characters) to `/output/entry.txt`. Deterministic, standard library only, no network.
+
+## Referral
+
+Play on make.fun with referral code `afc5cnfr`: https://make.fun/bounty/the-poem-about-permission-20261121-0235
